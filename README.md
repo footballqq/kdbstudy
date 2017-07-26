@@ -1,0 +1,2 @@
+# kdbstudy
+kdb go
