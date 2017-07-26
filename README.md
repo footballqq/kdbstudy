@@ -15,8 +15,13 @@ exit
 #learn
 https://code.kx.com/q/learn/
 
+#Basics
+http://code.kx.com/wiki/Tutorials/The_Basics
+
 #book
-http://code.kx.com/q4m3/
+Q for Mortals http://code.kx.com/q4m3/
+
+#
 
 
 
