@@ -43,5 +43,18 @@ https://github.com/KxSystems
 https://kxsystems.github.io/
 #
 
+#Knowledge Base/Databases/Kdb
+http://www.thalesians.com/finance/index.php/Knowledge_Base/Databases/Kdb
 
+#Learning Q KDB+
+https://eternallearningq.wordpress.com/q-kdb-tutorials/
+http://www.firstderivatives.com/lecture_series.asp
 
+#A lot of resources
+https://www.quora.com/What-are-really-good-tutorials-to-learn-KDB
+
+#Learn X in Y miniues
+https://learnxinyminutes.com/docs/kdb+/
+
+#Kdbplus For Mortals
+http://code.kx.com/wiki/JB:KdbplusForMortals/contents
